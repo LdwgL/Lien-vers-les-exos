@@ -9,7 +9,7 @@
 </head>
 
 <body>
-<h1>Lien ves les exercices</h1>
+<h1>Lien vers les exercices</h1>
 <a href="https://loudthunder64.github.io/Exercices-HTML-CSS/Calculatrice/calculatrice.html" target="_blank">Calculatrice JS-CSS</a>
     <br><br>
     <a href="https://loudthunder64.github.io/Exercices-HTML-CSS/Canvas JS/Canvas JS.html" target="_blank">Canvas JS</a>
